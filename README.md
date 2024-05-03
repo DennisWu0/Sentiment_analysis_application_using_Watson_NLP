@@ -1,4 +1,4 @@
-There are 7 steps to create this project:
+There are 7 steps to create this project from IBM course:
   
   - Created an AI based sentiment analysis application using Watson NLP embedded libraries.
   
